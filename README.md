@@ -1,6 +1,11 @@
 # Remote-work-and-Mental-health
 Impact of remote work on Mental health
 
+## Table of Contents
+
+- [Project Overview](#project_overview)
+- [Data Analysis](#data_analysis)
+
 ### Project Overview
 
 The main aim for this health data analysis project was to provide insights on the impact of remote work on the mental health of the employees.
