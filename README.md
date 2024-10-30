@@ -6,10 +6,11 @@ Impact of remote work on Mental health
 - [Project Overview](#project_overview)
 - [Data Sources](#data_sources)
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#data_cleaningpreparation)
+- [Data Preparation](#data-preparation)
 - [Dashboarding](#dashboarding)
 - [Exploratory data analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
+- [Results or Findings](#results-or-findings)
 - [Recommendation](#recommendation)
 - [Limitations](#limitations)
 
@@ -26,7 +27,7 @@ The primary dataset used for this analysis is the "Impact_of_Remote_Work_on_Ment
 - Power query: Data cleaning and analysis
 - Power Bi: Visualization
 
-### Data Cleaning/Preparation
+### Data Preparation
 
 In initial data preparation phase, the following tasks were carried out;
 - Created a copy of the data
@@ -54,7 +55,7 @@ The objectives involved exploring the dataset to answer key questions, such as;
 3. Productivity and Job Satisfaction: Focuses on how remote work affects productivity and job satisfaction, and the influence of mental health on these factors.
 3. Impact on Work and quality of Sleep: Focuses on investigating how remote work influences employees' sleep quality and work balance.
 
-### Results/Findings
+### Results or Findings
 
 The analysis results are summarized as follows;
 - Younger employees report lower satisfaction, potentially due to perceived inadequate support from the company. This indicates that age or experience may play a role in employees' perception of support, impacting their overall satisfaction levels.
