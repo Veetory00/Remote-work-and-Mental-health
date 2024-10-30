@@ -60,7 +60,22 @@ The analysis results are summarized as follows;
 ### Recommendation
 
 Based on the analysis, the following actions are reccommended;
-Enhance Support Programs for Younger Employees:
-Mentorship Initiatives: Pair younger employees with more experienced mentors to foster support and professional development.
-Clear Communication on Available Resources: Improve awareness of mental health, wellness, and professional resources for younger employees to ensure they feel supported.
-Flexibility and Engagement Opportunities: Design programs that specifically address challenges younger employees face, such as work-life balance and career development.
+- Enhance Support Programs for Younger Employees:
+  - Mentorship Initiatives: Pair younger employees with more experienced mentors to foster support and professional development.
+  - Clear Communication on Available Resources: Improve awareness of mental health, wellness, and professional resources for younger employees to ensure they feel supported.
+  - Flexibility and Engagement Opportunities: Design programs that specifically address challenges younger employees face, such as work-life balance and career development.
+- Manage Workloads to Reduce Exhaustion:
+  - Limit Overtime and Encourage Breaks: For roles with higher hourly rates, limit overtime and promote a culture where taking breaks is encouraged to prevent exhaustion.
+  - Introduce Mental Health Days or Downtime Allowances: Offer employees days off or lighter tasks to recharge, which can enhance productivity in the long term.
+  - Redefine Compensation Structure: Consider rewarding productivity through non-monetary perks (such as flexible hours or remote work days) to offset the pressure of high hourly expectations.
+- Address Factors Beyond Satisfaction for Improved Productivity:
+  - Goal Setting and Accountability: Help employees set achievable goals and track progress. Providing regular feedback and recognizing accomplishments could positively impact productivity beyond satisfaction levels.
+  - Skill Development and Training: Offer training focused on time management, stress management, and role-specific skills to improve productivity.
+- Encourage Healthy Sleep Habits: Educate employees on the benefits of good sleep, even if direct productivity benefits are marginal, as this can improve overall well-being.
+- Since the sleep quality difference showed minimal impact, research exploring other lifestyle or mental health factors that could be contributing to productivity challenges should further investigated.
+*These recommendations aim to foster a healthier, more supportive work environment that balances employee satisfaction, productivity, and well-being.*
+
+### Limitations
+- The data represents only a specific period, it may not capture fluctuations over time (e.g., seasonal workload changes, evolving company policies).
+- The analysis may reveal correlations (e.g., between high hourly rates and exhaustion), but it doesn’t confirm causation. Other underlying factors (like job type, workload, or personal health) might be influencing both hourly rate and exhaustion simultaneously.
+- Since satisfaction, exhaustion, and mental health factors are often self-reported, responses may be influenced by personal biases, mood at the time of the survey, or reluctance to report burnout.
