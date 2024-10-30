@@ -4,7 +4,7 @@ Impact of remote work on Mental health
 ## Table of Contents
 
 - [Project Overview](#project_overview)
-- [Data Analysis](#data_analysis)
+- [Recommendation](#recommendation)
 
 ### Project Overview
 
