@@ -2,7 +2,6 @@
 Impact of remote work on Mental health
 
 ## Table of Contents
----
 
 - [Project Overview](#project_overview)
 - [Data Sources](#data_sources)
@@ -16,19 +15,24 @@ Impact of remote work on Mental health
 - [Limitations](#limitations)
 
 ### Project Overview
+---
 
 The main aim for this health data analysis project was to provide insights on the impact of remote work on the mental health of the employees.
+---
 
 ### Data Sources
+---
 
 The primary dataset used for this analysis is the "Impact_of_Remote_Work_on_Mental_Health.csv" [Download_here](https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health/data)
 
 ### Tools
+---
 
 - Power query: Data cleaning and analysis
 - Power Bi: Visualization
 
 ### Data Preparation
+---
 
 In initial data preparation phase, the following tasks were carried out;
 - Created a copy of the data
@@ -37,11 +41,13 @@ In initial data preparation phase, the following tasks were carried out;
 - Calculation of satisfaction rate
 
 ### Dashboarding
+---
 
 - Created charts to target each objectives
 - Added slicers for filtering of the data
 
 ### Exploratory Data Analysis
+---
 
 The objectives involved exploring the dataset to answer key questions, such as;
 - The role of support system?
@@ -50,6 +56,7 @@ The objectives involved exploring the dataset to answer key questions, such as;
 - Impact on Work and quality of Sleep?
 
 ### Data Analysis
+---
 
 1. The role of support system: Focuses on analyzing how various support systems influence the mental health of remote workers.
 2. Differences by Work Environment: Focuses on investigating how differences in home office environments impact mental health outcomes.
@@ -57,6 +64,7 @@ The objectives involved exploring the dataset to answer key questions, such as;
 3. Impact on Work and quality of Sleep: Focuses on investigating how remote work influences employees' sleep quality and work balance.
 
 ### Results or Findings
+---
 
 The analysis results are summarized as follows;
 - Younger employees report lower satisfaction, potentially due to perceived inadequate support from the company. This indicates that age or experience may play a role in employees' perception of support, impacting their overall satisfaction levels.
@@ -72,6 +80,7 @@ The analysis results are summarized as follows;
 ![W_S](https://github.com/user-attachments/assets/5b242233-b7d2-4b64-8c38-3465af430c64)
 
 ### Recommendation
+---
 
 Based on the analysis, the following actions are reccommended;
 - Enhance Support Programs for Younger Employees:
@@ -90,6 +99,8 @@ Based on the analysis, the following actions are reccommended;
 *These recommendations aim to foster a healthier, more supportive work environment that balances employee satisfaction, productivity, and well-being.*
 
 ### Limitations
+---
+
 - The data represents only a specific period, it may not capture fluctuations over time (e.g., seasonal workload changes, evolving company policies).
 - The analysis may reveal correlations (e.g., between high hourly rates and exhaustion), but it doesn’t confirm causation. Other underlying factors (like job type, workload, or personal health) might be influencing both hourly rate and exhaustion simultaneously.
 - Since satisfaction, exhaustion, and mental health factors are often self-reported, responses may be influenced by personal biases, mood at the time of the survey, or reluctance to report burnout.
