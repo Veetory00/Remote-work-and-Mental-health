@@ -6,7 +6,9 @@ Impact of remote work on Mental health
 - [Project Overview](#project_overview)
 - [Data Sources](#data_sources)
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#data_cleaning-preparation)
+- [Data Cleaning/Preparation](#data_cleaning_preparation)
+- [Dashboarding](#dashboarding)
+- [Exploratory data analysis](#exploratory-data-analysis)
 - [Recommendation](#recommendation)
 - [Limitations](#limitations)
 
